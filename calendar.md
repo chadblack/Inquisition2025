@@ -9,38 +9,35 @@ layout: page
 
 ## Week 1: Introduction
 
-Welcome to the Inquisition. We begin this week thinking about origins,
-precedents, and the world of the 1470s.
+Welcome to the Inquisition. We begin this week thinking about history first, and inquisition later. 
 
-January 25 (Tuesday) Introducing the Course.   
+August 19 (Tuesday) Introducing the Course.   
 
-READ:  
-* [The Syllabus]()
-
-January 27 (Thursday) History of the History of the Inquisition.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WBm7tN5Fn9U?si=bLF0Wj3lfpiO3Qwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 READ:  
-* Helen Rawlings, *The Spanish Inquisition*, pp. 1-20.
+* Please take the time to completely read this website and all of its pages.
 
-**DUE:** 
+August 21 (Thursday) The Urgency of History and the Status of the Past
 
-Define historiography and explain why it is important to practicing historians.
-What do you think drives changing approaches to historical problems over time?
+What is the status of the past for the present? We're going to start the semester with this philosophical question, first by doing Hegel a bit dirty and reducing him to his late, ill-conceived Philosophy of History. And secondly with the provocations of Walter Benjamin, a German Jewish thinker who wrote his "On the Concept of History" while attempting to escape Nazis.
 
+1. Hegel, Georg. 1988 \[1840/1830] "The Division of History" and "Appendix from Hegel's Philosophy of Right", _Introduction of The Philosophy of History_, trans. Leo Rauch. Pp. 92-106   
+2. Benjamin, Walter. 2019 \[1940] "Theses on the Philosophy of History" trans. by Harry Zohn. _Illuminations_. Schoken Books. Read Theses I, II, VI, VIII, IX, XIV, XVI, A.
 
-## Week 2: Establishment and Procedure
+This may help with Hegel:
 
-The Inquisition was bound by an extensive set of rules and procedures that
-were related to other forms of legal action and jurisdiction in the Spanish
-tradition. This week, we look at founding documents and procedures.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Dqyq-UjoVA?si=Z6-bTI-G4LdpBGeO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-February 1 (Tuesday) Establishment.
+## Week 2: Origins
+
+August 26 (Tuesday) Late Medieval Spain Becomes Modern.
 
 READ:
 
-* Rawlings, pp. 21-46.
+* 
 
-February 3 (Thursday) Procedure.
+August 28 (Thursday) Procedure.
 
 READ:
 
@@ -52,17 +49,19 @@ READ:
 What are the implications of Inquisitorial procedures for establishing and
 finding "truth"?
 
-## Week 3: The "Judiazing Heresy"
+## Week 3: Procudures
 
+The Inquisition was bound by an extensive set of rules and procedures that
+were related to other forms of legal action and jurisdiction in the Spanish
+tradition. This week, we look at founding documents and procedures.
 
-
-February 8 (Tuesday) The Converso.
+September 2 (Tuesday) The Converso.
 
 READ:
 
 * Rawlings, pp. 47-71.
 
-February 10 (Thursday) 
+September 4 (Thursday) 
 
 READ:
 
@@ -74,15 +73,15 @@ READ:
 * Write a research précis on Rawlings. Write summary findings of the cases
   from Homza.
 
-## Week 4: The Reformation and the Counter-Reformation 
+## Week 4: The "Judiazing Heresy"
 
-February 15 (Tuesday) Protestants and Alumbradas
+September 9 (Tuesday) Protestants and Alumbradas
 
 READ:
 
 * Rawlings, 90-113.
 
-February 17 (Thursday) Evolving Mission 
+September 11 (Thursday) Evolving Mission 
 
 READ:
 
@@ -90,9 +89,9 @@ READ:
 
 **DUE:** Précis on Rawlings OR comparison of alumbradismo and luteranismo
 
-## Week 5: Sex and Gender
+## Week 5: Reformation and Counter-reformation
 
-February 22 (Tuesday) When Sex is Blasphemous
+September 16 (Tuesday) When Sex is Blasphemous
 
 READ:
 
@@ -100,7 +99,7 @@ READ:
 * Allyson Poska, "When Bigamy is the Charge: Gallegan Women and the Holy
   Office," pp. 189-208 in Giles (1999).
 
-February 24 (Thursday) Sex and Jurisdiction
+September 18 (Thursday) Sex and Jurisdiction
 
 READ:
 
@@ -108,15 +107,15 @@ READ:
 
 **DUE:** Reaction paper to Poska.
 
-## Week 6: Spanish Witchcraft
+## Week 6: Sex and Gender
 
-March 1 (Tuesday) When Witches Were Real 
+September 23 (Tuesday) When Witches Were Real 
 
 READ:
 
 * Monter, *Frontiers of Heresy*, Chapter 12.
 
-March 3 (Thursday) Why Was Spain Different?
+September 25 (Thursday) Why Was Spain Different?
 
 READ:
 
@@ -127,31 +126,31 @@ READ:
 
 * Research memo on Monter.
 
-## Week 7: Midterm Exam
+## Week 7: Spanish Witchcraft
 
-March 8 (Tuesday) No class 
+September 30 (Tuesday) No class 
 
-March 10 (Thursday) No class
+October 2 (Thursday) No class
 
 **DUE:** 
 
 MIDTERM EXAM ESSAY DUE.
 
-## Week 8: SPRING BREAK
+## Week 8: Fall Break
 
-March 15 (Tuesday) Relaxation.
+October 7 (Tuesday) Relaxation.
 
-March 17 (Thursday) Enjoyment.
+October 9 (Thursday) Enjoyment.
 
 ## Week 9: Coming to America
 
-March 22 (Tuesday) The Inquisition in the Indies
+October 14 (Tuesday) The Inquisition in the Indies
 
 READ:
 
 * Chuchiak, 107-185.
 
-March 24 (Thursday)  
+October 16 (Thursday)  
 
 READ:
 
@@ -163,7 +162,7 @@ READ:
 
 ## Week 10: Blasphemies
 
-March 29 (Tuesday)  
+October 21 (Tuesday)  
 
 READ: Cryptojews and others in the New World
 
@@ -171,7 +170,7 @@ READ: Cryptojews and others in the New World
 * Kathryn Joy McKnight, "Blasphemy as Resistance: An African Slave Woman before
   the Mexican Inquisition," pp. 229-254 in Giles (1999).
 
-March 31 (Thursday) Trials
+October 23 (Thursday) Trials
 
 READ:
 
@@ -181,9 +180,9 @@ READ:
 
 * Research memos on Bodian and McKnight.
 
-## Week 11: Sorcery, Witchcraft, and Magic 
+## Week 11: Sorceries
 
-April 5 (Tuesday)  
+October 28 (Tuesday)  
 
 READ:
 
@@ -192,7 +191,7 @@ READ:
   America, ed. Asunción Lavrin. Lincoln: Univ. of Nebraska Press, 1992
   (178-206).
 
-April 7 (Thursday)  
+October 30 (Thursday)  
 
 READ:
 
@@ -203,11 +202,11 @@ READ:
 
 ## Week 12: Limpieza, Identity, Race
 
-April 12 (Tuesday) Castas and Identity in the Americas
+November 4 (Tuesday) Castas and Identity in the Americas
 
 READ: Genealogical Fictions.
 
-April 14 (Thursday) **No Class** 
+November 6 (Thursday) **No Class** 
 
 READ:
 
@@ -217,7 +216,7 @@ READ:
 
 ## Week 13: Sex and Inquisition in the Indies
 
-April 19 (Tuesday) Clerics and Desire
+November 11 (Tuesday) Clerics and Desire
 
 READ:
 
@@ -229,7 +228,7 @@ READ:
   (Durham: Duke University Press, 2018).
 
 
-April 21 (Thursday)  
+November 13 (Thursday)  
 
 READ:
 
@@ -243,9 +242,9 @@ READ:
 
 * Reaction paper comparing the arguments in Tortorici and von Germeten.
 
-## Week 14: The Censors
+## Week 14: Impostures
 
-April 26 (Tuesday)  
+November 18 (Tuesday)  
 
 READ:
 
@@ -257,7 +256,7 @@ Religious and Theological Information* 10:3-4 (2011): pp. 103-124.
 1763-1805," *New Mexico Historical Review* 41.3 (1966): 181-
 
 
-April 28 (Thursday)  
+November 20 (Thursday)  
 
 READ:
 
@@ -267,11 +266,11 @@ READ:
 
 * Nothing!
 
-## Week 15: Goya's Ghost
+## Week 15: Thanksgiving
 
-May 3 (Tuesday) No class.
+November 25 (Tuesday) No class.
 
-May 5 (Thursday) No class.
+November 27 (Thursday) No class.
 
 READ:
 
@@ -283,7 +282,7 @@ Response paper to the film.
 
 ## Week 16 -- The Death and Afterlife of the Inquisition
 
-May 10 (Tuesday) Wrap it up.
+December 2 (Tuesday) Wrap it up.
 
 
 **DUE:** Self-Evaluation.
