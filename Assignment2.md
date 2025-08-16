@@ -3,6 +3,8 @@ title: "Benchmark Assignment 2: Thinking Like a Historian"
 layout: page
 ---
 
+# Think Like a Historian
+
 **DUE: OCTOBER 14**
 
 Historians don't only read and synthesize information. They also, of course, make new analyses of documents, bringing new questions, theories, connections, etc. to bear on the past. Evidence must be evaluated, sorted, analyzed in an ongoing process. In this assignment, you will demonstrate that you can do this clearly and in an interesting fashion.

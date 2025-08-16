@@ -3,6 +3,8 @@ title: Benchmark Assignment 1: Reading Like a Historian
 layout: page
 ---
 
+# Read Like a Historian
+
 **DUE:** September 18th
 
 Historians largely operate through texts, be they the textual remains of the past preserved in archives, contemporary theory, or the historiographic development of works written over time by other historians. Each of these types of texts, and in many other forms, require thoughtful strategies to place ideas, theories, facts, contexts, etc in relation to one another. This is often the first step into "historical thinking," and thus a skill that must be learned and cultivated like any other skill -- through repetition. This repetition is built in to history classes, but also asks students to be [active participants in both reading and discussion](https://chadblack.net/2023SPORT/resources/an%20approach%20to%20making%20notes/). 
