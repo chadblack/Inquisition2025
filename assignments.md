@@ -43,7 +43,7 @@ You may only submit assignments on the submission dates. If you get an assignmen
 
 Our in-class activities will include things like writing précis and research memos, reacting to readings, working through primary texts together, responding to film, etc. In order to do these activities, you must come to class having already done the reading. This is paramount, and inescapable for a college-level history major.   
 
-## Assignment Upload Dates:   
+## Assignment Upload Dates   
 
 First:   
 Second:   
@@ -54,9 +54,9 @@ Fifth:
 # Assignments. 
 
 1. [Benchmark Assignment 1: Reading Like a Historian](http://chadblack.net/Inquisition2025/Assignment1/)
-2. [Assignment 2: Thinking Like A Historian]  
-3. [Assignment 3: Researching Like a Historian]   
-4. [Assignment 4: Creative History]   
+2. [Benchmark Assignment 2: Thinking Like A Historian](http://chadblack.net/Inquisition2025/Assignment2/)  
+3. [Benchmark Assignment 3: Researching Like a Historian](http://chadblack.net/Inquisition2025/Assignment3/)   
+4. [Benchmark Assignment 4: Creative History](http://chadblack.net/Inquisition2025/Assignment4/)   
 
 Historians largely operate through texts, be they the textual remains of the past preserved in archives, contemporary theory, or historiographic development over time. Our work this semester will engage this full array of texts, and you will practice reading, thinking, researching, writing, etc. historically. 
 
