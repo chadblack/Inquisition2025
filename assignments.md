@@ -53,10 +53,10 @@ Fifth:
 
 # Assignments. 
 
-1. [[Assignment1|Assignment 1: Reading like a Historian]]  
-2. [[Assignment 2: Thinking Like A Historian]]  
-3. [[Assignment 3: Researching Like a Historian]]   
-4. [[Assignment 4: Creative History]]   
+1. [Benchmark Assignment 1: Reading Like a Historian](http://chadblack.net/Inquisition2025/Assignment1/)
+2. [Assignment 2: Thinking Like A Historian]  
+3. [Assignment 3: Researching Like a Historian]   
+4. [Assignment 4: Creative History]   
 
 Historians largely operate through texts, be they the textual remains of the past preserved in archives, contemporary theory, or historiographic development over time. Our work this semester will engage this full array of texts, and you will practice reading, thinking, researching, writing, etc. historically. 
 

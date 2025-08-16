@@ -4,12 +4,11 @@ layout: page
 ---
 
 **HILA 463: The Spanish Inquisition**  
-Spring 2022  
+	Fall 2025
 
 **Prof. Chad Black**  
 **Email:** cblack6@utk.edu  
-**Phone:** 974-9871  
-**Office:** 2627 Dunford Hall, 6th Floor  
+**Office:** SMC 621
 **Office Hours:** Wednesday 2:00-4:00, or by appointment
 
 1. toc
@@ -42,43 +41,25 @@ students with disabilities needing appropriate academic adjustments should
 contact me as soon as possible to ensure that your needs are met in a timely
 manner with appropriate documentation.
 
-**Masks:** The University is currently requiring students, faculty, and staff
-to mask indoors. We will comply with this requirement. The Delta variant of
-this virus is extremely contagious, with an R0 somewhere [between
-5-9](https://www.sfchronicle.com/health/article/CDC-says-the-delta-variant-is-as-contagious-as-16356370.php) (one person will infect
-on average 5-9 people). This turns the classroom into
-a potentially high-risk situation. Wearing a mask for 75 minutes indoors is
-a small price to pay to be back in University community.
 
 **Attendance:** Attendance is mandatory. If you cannot attend, please email
-Dr. Black or your TA ahead of time. We're not making an Inquisition into your
-absences, so the reasons you can't attend are not as important as giving us the
-heads up. If you have *any* symptoms or have been exposed to COVID, please do
-not come to class! Just send us a quick email, and get tested.
+Dr. Black ahead of time. We're not making an Inquisition into your
+absences, so the reasons you can't attend are not as important as giving us the heads up. 
 
 
 **Deadlines:** Assignments must uploaded to Canvas by the end of the day on
 which they are due. Late papers will not be accepted with out **prior
 arrangement**. If you will not be able to complete an assignment on time, you
-must contact me and your TA ahead of time. If you contract COVID or some other
-illness, please let us know so that we can work with you.
+must contact me and your TA ahead of time. If you contract COVID or some other illness, please let us know so that we can work with you.
 
 
 **Cell Phones, Laptops, Zoom:** Cellphones should be put away during class.
-Please do not text or post to the Group Me during class. It is very distracting
-to people around you, and to the professor. Laptops may be used to take notes,
-but I would ask you to seriously consider using paper instead. If you want or
-need to use a laptop, please consider sitting towards the back of the room so
-as to minimize distractions behind you. If we have to utilize Zoom at some
-point, please practice the kind of respectful manners that I'm sure you have
-become used to over the last 15 months. In class and on Zoom, I would invite
-you to interrupt me with questions during lecture.
+Please do not text or post  during class. It is very distracting
+to people around you, and to the professor. Laptops may be used to take notes, but I would ask you to seriously consider using paper instead. If you want or need to use a laptop, please consider sitting towards the back of the room so as to minimize distractions behind you. If we have to utilize Zoom at some point, please practice the kind of respectful manners that I'm sure you have become used to over the last years. In class and on Zoom, I would invite you to PLEASE interrupt me with questions during lecture.
 
-Research shows that analog note-taking improves learning. Consider having paper
-with you. Based on the prevailing literature, hand note-taking-- both while
-reading and in class-- leads to substantially better educational outcomes.
-Consider taking notes by hand even though you'll be watching on your computer.
+Research shows that analog note-taking improves learning. Consider having paper with you. Based on the prevailing literature, hand note-taking-- both while reading and in class-- leads to substantially better educational outcomes. Consider taking notes by hand even though you'll be watching on your computer.
 
+**Academic Honesty:** All work you turn in must be your own, and not another student's or produced by AI. Do not submit work produced by or with the assistance of LLMs, for example generative AI such as chatGPT, grok, Gemini, Copilot, Claude, etc. The assignments in this course are designed to teach you how to think and reason like a historian. Writing is thinking. If someone or something else is doing your writing, it's also doing your thinking. Except that LLMs do not think. They also are not search engines, databases, or indices of the web or human knowledge. They are very sophisticated statistical models that generate sequences of words or phrases that are indifferent to truth.  
 
 **Drop-in Hours**: Students are strongly encouraged to speak with me and the
 TAs outside of class. The advantages include: extra help on an assignment
@@ -89,11 +70,7 @@ are welcome to come by for any reason. Your TAs have the same. I'm also
 available via zoom by appointment.
 
 **Changes:** I reserve the write to change this syllabus as the semester
-progresses. This is not a contract, but rather a document to guide expectations
-and clearly communicate weekly assignments. Please bring the syllabus with you
-to our class meetings. Or, keep up with it on the course website. We'll have to
-remain flexible as the outlook for our fourth pandemic semester is still
-uncertain. 
+progresses. This is not a contract, but rather a document to guide expectations and clearly communicate weekly assignments. Please keep up with the course website. Flexibility is important for both students and professors.
 
 
 

@@ -35,27 +35,29 @@ August 26 (Tuesday) Late Medieval Spain Becomes Modern.
 
 READ:
 
-* 
+* Nirenberg, David. 2003. "Enmity and Assimilation: Jews, Christians, and Converts in Medieval Spain." *Common Knowledge* 9.1: 137-155.
 
-August 28 (Thursday) Procedure.
+August 28 (Thursday) Whither Convivencia
+
+READ:
+
+* Soifer, Maya. "Beyond *convivencia*: critical reflections on the historiography of interfaith relations in Christian Spain." *Journal of Medieval Iberian Studies*. 1.1: 19-35. 
+
+## Week 3: Procedure
+
+The Inquisition was bound by an extensive set of rules and procedures that
+were related to other forms of legal action and jurisdiction in the Spanish
+tradition. This week, we look at founding documents and procedures.
+
+September 2 (Tuesday): Procedure as Institution
 
 READ:
 
 * Homza, pp. 1-12.
 * Chuchiak, pp. 59-81.
 
-**DUE:** 
 
-What are the implications of Inquisitorial procedures for establishing and
-finding "truth"?
-
-## Week 3: Procudures
-
-The Inquisition was bound by an extensive set of rules and procedures that
-were related to other forms of legal action and jurisdiction in the Spanish
-tradition. This week, we look at founding documents and procedures.
-
-September 2 (Tuesday) The Converso.
+The Converso.
 
 READ:
 
@@ -105,7 +107,7 @@ READ:
 
 * Homza 103-108.
 
-**DUE:** Reaction paper to Poska.
+**DUE:** [[Assignment1|Benchmark Assignment 1]]
 
 ## Week 6: Sex and Gender
 
