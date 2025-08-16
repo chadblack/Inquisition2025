@@ -1,4 +1,7 @@
-# Benchmark Assignment 1: Reading Like a Historian 
+---
+title: Benchmark Assignment 1: Reading Like a Historian
+layout: page
+---
 
 **DUE:** September 18th
 
