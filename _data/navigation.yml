@@ -1,9 +1,7 @@
 # Sample site navigation bar links
 
-- title: 2022 HILA 463 
+- title: 2025 HILA 463 
   url: /
-- title: posts
-  url: /posts/
 - title: legalese
   url: /legalese/
 - title: calendar
