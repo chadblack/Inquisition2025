@@ -102,10 +102,13 @@ READ:
 
 ## Week 6: Sex and Gender
 
-**September 23 (Tuesday)** 
+The scope of Inquisitional jurisdiction did not remain with judiazers, moriscos, alumbrados, and protestants. Increasingly, the Holy Office sought to punish beliefs and acts deemed blasphemy or heresy in the wake of Counter-Reformation reforms and the Council of Trent. This week, we look at 
+
+**September 23 (Tuesday): When Sex is Blasphemy** 
 
 READ:
 
+* Allyson Poksa, "When Bigamy is the Charge: Gallegan Women and the Holy Office." Pp. 189-208 in Giles, *Women in the Inquisition*.
 
 
 **September 25 (Thursday)** 
@@ -127,6 +130,8 @@ READ:
 **October 7 (Tuesday) Relaxation**
 
 **October 9 (Thursday) Alekarre**
+
+* Alekarre film.
 
 ## Week 9: Coming to America
 
@@ -177,36 +182,27 @@ READ:
 
 READ:
 
-* Chuchiak, 292-307.  Section III -- the two sets on the trials and cases on superstition, witchcraft, peyote, plants, etc.
+* Chuchiak, 292-307.  Section III -- the two sets on the trials and cases on superstition, witchcraft, , plants, etc.
 
 
-## Week 12: Limpieza, Identity, Race
+## Week 12: Sex and Inquisition in the Indies
 
-**November 4 (Tuesday) Castas and Identity in the Americas**
+**November 4 (Tuesday) Clerics and Desire
 
 READ: 
 
-**November 6 (Thursday)** 
+* Nicole von Germeten, "Archival Narratives of Clerical Sodomy and Suicide from  Eighteenth-Century Cartagena," pp. 23-34 in Tortorici, ed., *Sexuality and the Unnatural in Colonial Latin America* (Berkeley: UC Press, 2016).
+
+**November 6 (Thursday): Clerics and Abuse** 
 
 READ:
-
-
-## Week 13: Sex and Inquisition in the Indies
-
-**November 11 (Tuesday) Clerics and Desire**
-
-READ:
-
-* Nicole von Germeten, "Archival Narratives of Clerical Sodomy and Suicide from
-  Eighteenth-Century Cartagena," pp. 23-34 in Tortorici, ed., *Sexuality and the
-  Unnatural in Colonial Latin America* (Berkeley: UC Press, 2016).
 
 * Zeb Tortorici, "Archives of Negligence," pp. 161-196 in *Sin Against Nature*
   (Durham: Duke University Press, 2018).
 
-**DUE: [Benchmark Assignment 3](http://chadblack.net/Inquisition2025/Assignment3/)**
+## Week 13: Sex and Inquisition in the Indies II
 
-**November 13 (Thursday)**  
+**November 11 (Tuesday): Alone
 
 READ:
 
@@ -216,21 +212,29 @@ READ:
   1550-1850, ed. Richard Boyer and Geoffrey Spurling. New York: Oxford Univ.
   Press, 2000 (77-100).
 
+**DUE: [Benchmark Assignment 3](http://chadblack.net/Inquisition2025/Assignment3/)**
+
+**November 13 (Thursday): Together**  
+
+READ:
+
+* Chuchiak, Pp. 218-234.
+
 
 ## Week 14: Impostures
 
-**November 18 (Tuesday)**  
+**November 18 (Tuesday): False Mystics**  
+
+READ:
+
+* 
+
+**November 20 (Thursday): Lying Priests**  
 
 READ:
 
 
-
-**November 20 (Thursday)**  
-
-READ:
-
-* Chuchiak, pp. 318-342.
-
+* 
 
 ## Week 15: Thanksgiving
 
