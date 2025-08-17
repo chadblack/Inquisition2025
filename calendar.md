@@ -11,7 +11,7 @@ layout: page
 
 Welcome to the Inquisition. We begin this week thinking about history first, and inquisition later. 
 
-August 19 (Tuesday) Introducing the Course.   
+**August 19 (Tuesday) Introducing the Course**   
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBm7tN5Fn9U?si=bLF0Wj3lfpiO3Qwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -31,13 +31,13 @@ This may help with Hegel:
 
 ## Week 2: Origins
 
-August 26 (Tuesday) Late Medieval Spain Becomes Modern.
+**August 26 (Tuesday) Late Medieval Spain Becomes Modern**
 
 READ:
 
 * Nirenberg, David. 2003. "Enmity and Assimilation: Jews, Christians, and Converts in Medieval Spain." *Common Knowledge* 9.1: 137-155.
 
-August 28 (Thursday) Whither Convivencia
+**August 28 (Thursday) Whither Convivencia**
 
 READ:
 
@@ -47,144 +47,124 @@ READ:
 
 The Inquisition was bound by an extensive set of rules and procedures that
 were related to other forms of legal action and jurisdiction in the Spanish
-tradition. This week, we look at founding documents and procedures.
+tradition. This week, we look at establishment and procedures.
 
-September 2 (Tuesday): Procedure as Institution
-
-READ:
-
-* Homza, pp. 1-12.
-* Chuchiak, pp. 59-81.
-
-
-The Converso.
+**September 2 (Tuesday): Creating an Institution**
 
 READ:
 
-* Rawlings, pp. 47-71.
+* Kamen, Henry. 2014. "The Coming of the Inquisition." Pp. 36-73 in *The Spanish Inquisition: A Historical Revision*. Fourth Edition. Yale University Press. 
 
-September 4 (Thursday) 
+**September 4 (Thursday): The Standard Procedure** 
 
 READ:
 
-* Homza, pp. 27-49; 238-248.
+* Homza, Lu Ann. 2008. *The Spanish Inquisition, 1478-1614*. Hackett Publishing. Documents 1 & 2, pages 1-12.
+* Chuchiak, John. "The Various Stages and Procudures in a Typical Inquisition Trial," Pp. 33-52 in *The Inquisition in New Spain, 1536-1820*. Johns Hopkins Press.
 
-
-**DUE:** 
-
-* Write a research précis on Rawlings. Write summary findings of the cases
-  from Homza.
 
 ## Week 4: The "Judiazing Heresy"
 
-September 9 (Tuesday) Protestants and Alumbradas
+In its first epoch, the Spanish Inquisition was primarily concerned with ending what was known as the Judiaizing Heresy, under the impression that there were scores of so-called cryptojews secretly undermining the church. This week, we will consider both secondary and primary work on these cases, which quickly burned through the peninsula. Consider how secret identities and beliefs were supposedly substantiated. Consider too the social station and punishments of defendants, as well as social consolidations pursued by the Crown through the Holy Office. How were secret Jews identified? How did procedural rules impact the cases?
+
+**September 9 (Tuesday): ** 
 
 READ:
 
-* Rawlings, 90-113.
+* Levine Melammed, Renée. 1999. "María López: A Convicted Judaizer from Castile." Pp. 53-72 in Mary E. Giles, ed., *Women in the Inquisition: Spain and the New World*. Johns Hopkins University Press.
 
-September 11 (Thursday) Evolving Mission 
+**September 11 (Thursday)** 
 
 READ:
 
-* Homza, pp. 80-92, 176-194.
+* Homza, *The Spanish Inquisition*. Documents 5 and 6. 
 
-**DUE:** Précis on Rawlings OR comparison of alumbradismo and luteranismo
 
 ## Week 5: Reformation and Counter-reformation
 
-September 16 (Tuesday) When Sex is Blasphemous
+As the numbers of conversos and (secret) Jews diminished through persecution and expulsion, the Inquisition found new targets in the religious innovations sparked by Luther's revolution. In response to the perceived threat of heretical beliefs associated with reformers, the Holy Office expanded its scope to include alumbrados, mystics, and Lutheranites. 
+
+**September 16 (Tuesday)** 
 
 READ:
 
-* Rawlings, pp 114-134.
-* Allyson Poska, "When Bigamy is the Charge: Gallegan Women and the Holy
-  Office," pp. 189-208 in Giles (1999).
+* Alcalá, Angel. "María de Cazalla: The Grievous Price of Victory." Pp. 98-118 in Giles, *Women in the Inquisition*.
 
-September 18 (Thursday) Sex and Jurisdiction
+**September 18 (Thursday)** 
 
 READ:
 
-* Homza 103-108.
+* Homza, "The Alumbrados in Castile, 1525-1532." in *The Spanish Inquisition*. Document 8.
+* Homza, "Letters from the Suprema, Inquisitor-General Fernando de Valdés, and Philip II on Protestants in the 1550s." *The Spanish Inquisition*. Document 17.
+
 
 **DUE:** [[Assignment1|Benchmark Assignment 1]]
 
 ## Week 6: Sex and Gender
 
-September 23 (Tuesday) When Witches Were Real 
+**September 23 (Tuesday)** 
 
 READ:
 
-* Monter, *Frontiers of Heresy*, Chapter 12.
 
-September 25 (Thursday) Why Was Spain Different?
+
+**September 25 (Thursday)** 
 
 READ:
 
-* Silvia Federici, *Calaban and the Witch*, "The Great Witch-Hunt in Europe."  
-* Homza, 153-164.
 
-**DUE:** 
 
-* Research memo on Monter.
 
 ## Week 7: Spanish Witchcraft
 
-September 30 (Tuesday) No class 
+**September 30 (Tuesday)** 
 
-October 2 (Thursday) No class
+**October 2 (Thursday)** 
 
-**DUE:** 
-
-MIDTERM EXAM ESSAY DUE.
 
 ## Week 8: Fall Break
 
-October 7 (Tuesday) Relaxation.
+**October 7 (Tuesday) Relaxation**
 
-October 9 (Thursday) Enjoyment.
+**October 9 (Thursday) Alekarre**
 
 ## Week 9: Coming to America
 
-October 14 (Tuesday) The Inquisition in the Indies
+**October 14 (Tuesday) The Inquisition in the Indies**
 
 READ:
 
 * Chuchiak, 107-185.
 
-October 16 (Thursday)  
+**DUE: [Benchmark Assigntment 2](http://chadblack.net/Inquisition2025/Assignment2/)**
+
+**October 16 (Thursday)**  
 
 READ:
 
 * Chuchiak, 107-185. 
 
-**DUE:** 
-
-* How was the Inquisition different in New Spain than in Old Spain?
 
 ## Week 10: Blasphemies
 
-October 21 (Tuesday)  
+**October 21 (Tuesday)  Cryptojews and others in the New World**
 
-READ: Cryptojews and others in the New World
+READ: 
 
 * Miriam Bodian, *Dying in the Law of Moses*, Chapter 5.  
 * Kathryn Joy McKnight, "Blasphemy as Resistance: An African Slave Woman before
   the Mexican Inquisition," pp. 229-254 in Giles (1999).
 
-October 23 (Thursday) Trials
+**October 23 (Thursday) Trials**
 
 READ:
 
 * Chuchiak, pp. 205-217, 235-291.
 
-**DUE:** 
-
-* Research memos on Bodian and McKnight.
 
 ## Week 11: Sorceries
 
-October 28 (Tuesday)  
+**October 28 (Tuesday)**  
 
 READ:
 
@@ -193,32 +173,27 @@ READ:
   America, ed. Asunción Lavrin. Lincoln: Univ. of Nebraska Press, 1992
   (178-206).
 
-October 30 (Thursday)  
+**October 30 (Thursday)**  
 
 READ:
 
-* Chuchiak, 292-307.  Section III -- the two sets on the trials and cases on superstition,
-  witchcraft, peyote, plants, etc.
+* Chuchiak, 292-307.  Section III -- the two sets on the trials and cases on superstition, witchcraft, peyote, plants, etc.
 
-**DUE:** 
 
 ## Week 12: Limpieza, Identity, Race
 
-November 4 (Tuesday) Castas and Identity in the Americas
+**November 4 (Tuesday) Castas and Identity in the Americas**
 
-READ: Genealogical Fictions.
+READ: 
 
-November 6 (Thursday) **No Class** 
+**November 6 (Thursday)** 
 
 READ:
 
-**DUE:** 
-
-* Book review of *Genealogical Fictions*.
 
 ## Week 13: Sex and Inquisition in the Indies
 
-November 11 (Tuesday) Clerics and Desire
+**November 11 (Tuesday) Clerics and Desire**
 
 READ:
 
@@ -229,8 +204,9 @@ READ:
 * Zeb Tortorici, "Archives of Negligence," pp. 161-196 in *Sin Against Nature*
   (Durham: Duke University Press, 2018).
 
+**DUE: [Benchmark Assignment 3](http://chadblack.net/Inquisition2025/Assignment3/)**
 
-November 13 (Thursday)  
+**November 13 (Thursday)**  
 
 READ:
 
@@ -240,33 +216,21 @@ READ:
   1550-1850, ed. Richard Boyer and Geoffrey Spurling. New York: Oxford Univ.
   Press, 2000 (77-100).
 
-**DUE:** 
-
-* Reaction paper comparing the arguments in Tortorici and von Germeten.
 
 ## Week 14: Impostures
 
-November 18 (Tuesday)  
+**November 18 (Tuesday)**  
 
 READ:
 
-* Martin Nesvig, "The Index of Prohibited Books in Sixteenth Century Mexico:
-Theological Conservatism and Adaptive Responses to Censorship," *Journal of
-Religious and Theological Information* 10:3-4 (2011): pp. 103-124.
-
-* Richard Greenleaf, "The Mexican Inquisition and the Enlightenment,
-1763-1805," *New Mexico Historical Review* 41.3 (1966): 181-
 
 
-November 20 (Thursday)  
+**November 20 (Thursday)**  
 
 READ:
 
-* Chichiak, pp. 318-342.
+* Chuchiak, pp. 318-342.
 
-**DUE:** 
-
-* Nothing!
 
 ## Week 15: Thanksgiving
 
@@ -274,17 +238,14 @@ November 25 (Tuesday) No class.
 
 November 27 (Thursday) No class.
 
-READ:
-
-* Rawlings, 135-156.
-
-**DUE:** 
-
-Response paper to the film.
 
 ## Week 16 -- The Death and Afterlife of the Inquisition
 
 December 2 (Tuesday) Wrap it up.
 
 
-**DUE:** Self-Evaluation.
+## FINAL BENCHMARKS DUE DECEMBER 10
+
+[Benchmark Assignment 4](http://chadblack.net/Inquisition2025/Assignment4/)
+
+
