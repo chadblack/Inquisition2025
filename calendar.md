@@ -18,7 +18,7 @@ Welcome to the Inquisition. We begin this week thinking about history first, and
 READ:  
 * Please take the time to completely read this website and all of its pages.
 
-August 21 (Thursday) The Urgency of History and the Status of the Past
+**August 21 (Thursday) The Urgency of History and the Status of the Past**
 
 What is the status of the past for the present? We're going to start the semester with this philosophical question, first by doing Hegel a bit dirty and reducing him to his late, ill-conceived Philosophy of History. And secondly with the provocations of Walter Benjamin, a German Jewish thinker who wrote his "On the Concept of History" while attempting to escape Nazis.
 
@@ -35,13 +35,13 @@ This may help with Hegel:
 
 READ:
 
-* Nirenberg, David. 2003. "Enmity and Assimilation: Jews, Christians, and Converts in Medieval Spain." *Common Knowledge* 9.1: 137-155.
+* Nirenberg, David. 2003. "Enmity and Assimilation: Jews, Christians, and Converts in Medieval Spain." *Common Knowledge* 9.1: 137-155. [UTK Library](https://utk.primo.exlibrisgroup.com/permalink/01UTN_KNOXVILLE/9go8o8/cdi_proquest_miscellaneous_60453586)
 
 **August 28 (Thursday) Whither Convivencia**
 
 READ:
 
-* Soifer, Maya. "Beyond *convivencia*: critical reflections on the historiography of interfaith relations in Christian Spain." *Journal of Medieval Iberian Studies*. 1.1: 19-35. 
+* Soifer, Maya. "Beyond *convivencia*: critical reflections on the historiography of interfaith relations in Christian Spain." *Journal of Medieval Iberian Studies*. 1.1: 19-35. [UTK Library](https://utk.primo.exlibrisgroup.com/permalink/01UTN_KNOXVILLE/9go8o8/cdi_crossref_citationtrail_10_1080_17546550802700335)  
 
 ## Week 3: Procedure
 
@@ -60,7 +60,7 @@ READ:
 READ:
 
 * Homza, Lu Ann. 2008. *The Spanish Inquisition, 1478-1614*. Hackett Publishing. Documents 1 & 2, pages 1-12.
-* Chuchiak, John. "The Various Stages and Procudures in a Typical Inquisition Trial," Pp. 33-52 in *The Inquisition in New Spain, 1536-1820*. Johns Hopkins Press.
+* Chuchiak, John. "The Various Stages and Procedures in a Typical Inquisition Trial," Pp. 33-52 in *The Inquisition in New Spain, 1536-1820*. Johns Hopkins Press.
 
 
 ## Week 4: The "Judiazing Heresy"
@@ -108,23 +108,26 @@ The scope of Inquisitional jurisdiction did not remain with judiazers, moriscos,
 
 READ:
 
-* Allyson Poksa, "When Bigamy is the Charge: Gallegan Women and the Holy Office." Pp. 189-208 in Giles, *Women in the Inquisition*.
+* Poksa, Allyson. 1999."When Bigamy is the Charge: Gallegan Women and the Holy Office." Pp. 189-208 in Giles, *Women in the Inquisition*.
 
 
-**September 25 (Thursday)** 
+**September 25 (Thursday): Jurisdictional Irregularities** 
 
 READ:
 
-
+* Monter, William. 1990. "Sodomy: the fateful accident." Pp. 276-299 in *Frontiers of Heresy: The Spanish Inquisition from the Basque Lands to Sicily*.
 
 
 ## Week 7: Spanish Witchcraft
 
 **September 30 (Tuesday)** 
 
+* Zamora Calvo, María Jesús. 2021. "Catalina Mateo: Portrait of a Witch in Sixteenth-Century Castile." In María Jesús Zamora Calvo, editor, *Women Witchcraft and the Inquisition in Spain and the New World*. Louisiana State University Press. 
+
 **October 2 (Thursday)** 
 
-
+* Homza, Document 13, "Deliberations on the Reality and Heresy of Witchcraft, 1526." 153-163.
+* Monter, "Witchcraft: the forgotten offense." 255-275
 ## Week 8: Fall Break
 
 **October 7 (Tuesday) Relaxation**
@@ -132,6 +135,7 @@ READ:
 **October 9 (Thursday) Alekarre**
 
 * Alekarre film.
+* 
 
 ## Week 9: Coming to America
 
@@ -139,7 +143,7 @@ READ:
 
 READ:
 
-* Chuchiak, 107-185.
+* Lopes Don, Patricia. 2006. "Franciscans, Indian Sorcerers, and the Inquisition in New Spain, 1536-1543." *Journal of World History*. 17:1: 27-49. [UTK Library](https://utk.primo.exlibrisgroup.com/permalink/01UTN_KNOXVILLE/9go8o8/cdi_proquest_miscellaneous_36466328)
 
 **DUE: [Benchmark Assigntment 2](http://chadblack.net/Inquisition2025/Assignment2/)**
 
@@ -147,7 +151,7 @@ READ:
 
 READ:
 
-* Chuchiak, 107-185. 
+ * Chuchiak, "Edicts of Faith of the Inquisition in New Spain," "Inquisition Prisons and Life in the Cells", "Administration of Torture in Inquisition Trials" Pp 107-149.
 
 
 ## Week 10: Blasphemies
@@ -156,7 +160,7 @@ READ:
 
 READ: 
 
-* Miriam Bodian, *Dying in the Law of Moses*, Chapter 5.  
+* *Dying in the Law of Moses*, "A Converso Surgeon in the Viceroyalty of Peru."
 * Kathryn Joy McKnight, "Blasphemy as Resistance: An African Slave Woman before
   the Mexican Inquisition," pp. 229-254 in Giles (1999).
 
@@ -164,7 +168,7 @@ READ:
 
 READ:
 
-* Chuchiak, pp. 205-217, 235-291.
+* Chuchiak, Blasphemies and Cryptojews
 
 
 ## Week 11: Sorceries
@@ -182,12 +186,12 @@ READ:
 
 READ:
 
-* Chuchiak, 292-307.  Section III -- the two sets on the trials and cases on superstition, witchcraft, , plants, etc.
+* Chuchiak, 292-307.
 
 
 ## Week 12: Sex and Inquisition in the Indies
 
-**November 4 (Tuesday) Clerics and Desire
+**November 4 (Tuesday) Clerics and Abuse 
 
 READ: 
 
@@ -214,11 +218,11 @@ READ:
 
 **DUE: [Benchmark Assignment 3](http://chadblack.net/Inquisition2025/Assignment3/)**
 
-**November 13 (Thursday): Together**  
+**November 13 (Thursday): On Race**  
 
 READ:
 
-* Chuchiak, Pp. 218-234.
+* Maria Elena Martinez, "The *Probanza de Limpieza de Sangre* in Colonial and Transatlantic Space", Pp. 173-199 in *Genealogical fictions*.
 
 
 ## Week 14: Impostures
@@ -227,14 +231,13 @@ READ:
 
 READ:
 
-* 
+* Jaffray, Nora. 2004. "Orthodoxy and Heterodoxy in the Visions of Ilusos and Alumbrados." Chapter Four in *False Mystics.* University of Nebraska Press.
 
 **November 20 (Thursday): Lying Priests**  
 
 READ:
 
-
-* 
+* Villa-Flores. 2008. "Wandering Swindlers: Imposture, Style, and the Inquisition's Pedagogy of Fear in Colonial Mexico." *Colonial Latin American Review*. 15:2, 251-272. [UTK Library](https://utk.primo.exlibrisgroup.com/permalink/01UTN_KNOXVILLE/9go8o8/cdi_crossref_citationtrail_10_1080_10609160802393815)
 
 ## Week 15: Thanksgiving
 

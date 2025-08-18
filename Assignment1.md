@@ -1,9 +1,8 @@
 ---
-title: Benchmark Assignment 1: Reading Like a Historian
+title: "Benchmark Assignment 1: Reading Like a Historian"
 layout: page
 ---
 
-# Read Like a Historian
 
 **DUE:** September 18th
 
@@ -14,6 +13,7 @@ In this assignment, you will demonstrate that you can figure out what is importa
 Chose one chapter or article from the semester up to this point and summarize it using [the form of a précis and memo](https://chadblack.net/2023SPORT/resources/how%20to%20write%20a%20precis%20and%20memo/). You are aiming for the most-important aspect of the chapter, and in the memo section you must utilize evidence from the text to illustrate your point. **Do not include any additional resources or references. If you use them and cite them, you'll get a Fail. If you use them and don't cite them, you'll be referred for plagiarism!** Read and re-read one chapter or article, mark it up, take notes, and then write you paper.  
 
 Use prose, with paragraphs, as if in a traditional essay.  
+
 * Include a word count. Your assignment should be between 500 and 750 words.  
 * Organization should be clear, with transitions between paragraphs.  
 * Information should be presented as a coherent whole.  
