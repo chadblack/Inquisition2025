@@ -98,7 +98,7 @@ READ:
 * Homza, "Letters from the Suprema, Inquisitor-General Fernando de Valdés, and Philip II on Protestants in the 1550s." *The Spanish Inquisition*. Document 17.
 
 
-**DUE:** [[Assignment1|Benchmark Assignment 1]]
+**DUE:** [Benchmark 1](https://chadblack.net/Inquisition2025/Assignment1/)
 
 ## Week 6: Sex and Gender
 
