@@ -191,7 +191,9 @@ READ:
 
 ## Week 12: Sex and Inquisition in the Indies
 
-**November 4 (Tuesday) Clerics and Abuse 
+**November 4 (Tuesday) Clerics and Abuse** 
+
+No class -- election day.
 
 READ: 
 
