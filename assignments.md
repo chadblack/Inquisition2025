@@ -15,7 +15,7 @@ Readings will be available via the library website or on Canvas.
 
 This course uses a somewhat uncommon approach to assessment known as Specifications Grading. You have **four** potential assignments, each of which you must successfully complete before moving on to the next one. You will be assessed on each as satisfactory or unsatisfactory. Once you have demonstrated mastery of the standard for the first assignment, you may move on to the next one. But, the catch is that there are only **four** opportunities to turn work in. So, if you get an unsatisfactory, you must redo that assignment at the next due date before you can move on. 
 
-**To pass this class, you must successfully complete two assignments, attend all classes (with no more than two absences), and satisfactorily completely 70% of our in-class work.** 
+**To pass this class, you must successfully complete two assignments, attend all classes (with no more than two absences), and satisfactorily participate based on your self-evaluation and my assessment.** 
 
 Beyond that, if you...  
 Successfully complete all four levels: A- to A+  
@@ -30,7 +30,7 @@ Your place within the letter grade range is determined by your in-class work, pa
 
 * Completeness (all required items submitted and questions answered adequately with required evidence)  
 * Professionalism in writing quality and presentation: clear organization, no sentence fragments or run-ons, no more than **five errors** per 250 words (including citations in Chicago style)  
-* No plagiarism or having AI write your papers  
+* No plagiarism or having AI write your papers, which qualify for failing the class.
 
 **Proofreading Tips to Give Yourself the Best Chance of Passing**:
 
